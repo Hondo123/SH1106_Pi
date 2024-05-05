@@ -22,6 +22,12 @@ Use the instruction on [Michael Klements](https://github.com/mklements/OLED_Stat
 You don't have to install the adafruit library. Install the luma.oled library instead.
 Use this script instead of the script mentionend in the build-guide.
 
+## Customization
+If you have a different chip just change this line to the chip you are using:
+``python
+device = sh1106(serial)
+``
+Then it should work (in theory, not tested)
 
 
 
