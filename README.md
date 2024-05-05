@@ -8,7 +8,7 @@ This project is based on the work of [Michael Klements](https://github.com/mklem
 
 ## Features
 
-- Displays basic system statistics such as CPU usage, memory usage, disk space, etc. on an OLED screen.
+- Displays basic system statistics such as CPU temperature, IP, memory usage, disk space, etc. on an OLED screen.
 - Supports the SH1106 chip and other compatible chips.
 - Runs in the background of the Raspberry Pi.
 
