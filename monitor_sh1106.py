@@ -1,3 +1,9 @@
+# Created by: Michael Klements
+# Updated by: Kristoff Schmidt
+# For Raspberry Pi Desktop Case with OLED Stats Display using the SH1106 OLED display
+# Based on Luma OLED libraries
+# Installation & Setup Instructions - https://www.the-diy-life.com/add-an-oled-stats-display-to-raspberry-pi-os-bullseye/
+
 from luma.core.interface.serial import i2c
 from luma.core.render import canvas
 from luma.oled.device import ssd1306, ssd1309, ssd1325, ssd1331, sh1106, sh1107, ws0010
