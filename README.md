@@ -4,7 +4,7 @@ This Python script runs in the background of a Raspberry Pi and displays basic s
 
 ## Original Author
 
-This project is based on the work of [Michael Klements](https://github.com/mklements/OLED_Stats), whose build guide can be found [here]([link-to-original-build-guide](https://www.the-diy-life.com/add-an-oled-stats-display-to-raspberry-pi-os-bullseye/)).
+This project is based on the work of [Michael Klements](https://github.com/mklements/OLED_Stats), whose build guide can be found [here](https://www.the-diy-life.com/add-an-oled-stats-display-to-raspberry-pi-os-bullseye/).
 
 ## Features
 
